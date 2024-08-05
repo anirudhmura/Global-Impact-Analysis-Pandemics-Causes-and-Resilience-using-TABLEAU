@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project, conducted from April 2023 to May 2023, focuses on analyzing global pandemics with a particular emphasis on COVID-19. The analysis covers statistics related to the pandemic and its economic repercussions worldwide. Tableau was used as the primary tool for data visualization and analysis.
+Link- https://public.tableau.com/app/profile/anirudh5969/viz/DataVizualizationProjectBA-02/PandemicResurgence
 
 ## Key Features
 - Comprehensive analysis of global pandemic data
